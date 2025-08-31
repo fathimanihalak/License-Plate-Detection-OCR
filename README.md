@@ -53,7 +53,7 @@ This project demonstrates **automatic license plate detection and recognition** 
 ---
 
 ## 📷 Sample Outputs  
-<img width="1366" height="768" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/caf07c4a-0176-47a5-8f3b-d9afe2eaf29c" />
+<img width="1366" height="768" alt="2025-08-31" src="https://github.com/user-attachments/assets/c1ae565f-d6b8-4f3d-a618-6fc814061f0c" />
 
 <img width="1366" height="768" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/7eb46f41-a5d5-4c99-9d85-39a326be75c7" />
 
